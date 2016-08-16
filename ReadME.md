@@ -1,4 +1,4 @@
 git status
 git add * 
-git commit
+git commit -m "message"
 git push origin master
